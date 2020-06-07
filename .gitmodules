@@ -1,0 +1,9 @@
+[submodule "Git2Graphviz"]
+	path = Git2Graphviz
+	url = https://github.com/Rozakiin/Git2Graphviz.git
+[submodule "CompareCommits"]
+	path = CompareCommits
+	url = https://github.com/Rozakiin/CompareCommits.git
+[submodule "Git2Zip"]
+	path = Git2Zip
+	url = https://github.com/Rozakiin/Git2Zip.git
